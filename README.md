@@ -6,9 +6,8 @@ DRF API service for cinema management
 
 ```shell
 git clone https://github.com/DanRoman-code/dokerize-cinema-api.git
-cd dokerized-cinema-api
 python3 -m venv venv
-source venv/bin/activate
+source venv/bin/activate (on Linux and macOS) or venv\Scripts\activate (on Windows)
 pip install -r requirements.txt
 set DB_HOST=<your db hostname>
 set DB_NAME=<your db name>
