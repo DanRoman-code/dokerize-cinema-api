@@ -1,6 +1,6 @@
 # Dockerized Cinema API
 
-API service for cinema management written on DRF
+DRF API service for cinema management
 
 ## Installing using Github
 
